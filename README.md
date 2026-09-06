@@ -8,6 +8,7 @@
 
 ## 文件说明
 - wild_age_analysis.sql：全部MySQL查询源代码
+- 野蛮时代数据字段解释.xlsx：sql数据表tap_fun完整字段字典，108个字段含义说明
 
 ## notion作品集链接
 - https://app.notion.com/p/9ac7bc3cfb4b477cb36fb1aa058744be?source=copy_link#3d1de6783dc4808eb226f186636b3509
